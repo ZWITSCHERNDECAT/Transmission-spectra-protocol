@@ -1,5 +1,11 @@
+ <img src="https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge">
+
+
 # Transmission-spectra-protocol
 The original code of the derivation of transmission spectra from TOI654.01, observerd by Subaru(IRD).
+
+![Uploading スクリーンショット 2024-08-05 22.52.21.png…]()
+
 
 ## The absrtract of the research
 The population of small planets, sub-Neptunes (2-4 Earth radii) and super-Earths (1-1.5 Earth radii) become a majority among exoplanets after the launch of Kepler and TESS space telescopes. The Radius Valley (1.5-2 Earth radii) is thought to be the boundary of them if they could maintain their primary H/He atmosphere or not. However, the actual boundary has not been confirmed directly by atmospheric detection, and the mechanisms that form the diverse composition of the small planets are unknown.
