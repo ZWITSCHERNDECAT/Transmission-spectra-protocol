@@ -4,7 +4,7 @@
 # Transmission-spectra-protocol
 The original code of the derivation of transmission spectra from TOI654.01, observerd by Subaru(IRD).
 
-![Uploading スクリーンショット 2024-08-05 22.52.21.png…]()
+<img width="947" alt="スクリーンショット 2024-08-05 22 52 21" src="https://github.com/user-attachments/assets/076a7d30-bf82-42ae-8369-e095a6fda8a2">
 
 
 ## The absrtract of the research
