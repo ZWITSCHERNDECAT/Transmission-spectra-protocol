@@ -22,7 +22,7 @@ git clone https://github.com/ZWITSCHERNDECAT/Transmission-spectra-protocol.git
 
 ## 使用言語・フレームワーク
 - **Python 3.10**
-- **Jupyter Notebook**
+- **Jupyter Notebook (Visual Studio Code)**
 - **主要ライブラリ**
   - NumPy 1.24.0
   - Matplotlib 3.7.0
